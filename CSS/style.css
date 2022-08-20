@@ -1,0 +1,38 @@
+
+ul{list-style-type: none;
+    margin-top: 10;
+    padding: 10;
+    overflow: hidden;
+    background-color:blanchedalmond;
+    
+
+    
+}
+li{
+    float: left;
+    display: inline;
+
+}   
+
+li a{ 
+    display: block;
+    text-align: center;
+    margin: 10px;
+    padding-right: 15px;
+
+}
+body{
+    background-color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+h1{
+color: brown;
+font-size: 20;
+}
+.footer{
+    background-color: rgb(182, 21, 21);
+    padding: 20px;
+    margin-top: 30px;
+    text-align: center;
+}

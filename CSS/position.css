@@ -1,0 +1,25 @@
+body{
+    height: 1000px;
+}
+#nav-bar{
+ height:30px;
+border-radius: 8px;
+border-width: 2px;
+border-style:solid ;
+border-color: pink;
+margin: 10px;
+padding: 10px;
+background-color: chartreuse;
+position: sticky;
+position:-webkit-sticky ;
+top:0px;
+}
+a{
+    text-align: center;
+    text-decoration: none;
+    padding-left: 180px;
+
+}
+
+h1{ text-align: center;
+}
